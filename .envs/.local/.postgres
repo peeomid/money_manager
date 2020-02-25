@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=money_manager
+POSTGRES_USER=cPiBKxDYtSGoodzdlRGRCQrCRZpNXAnM
+POSTGRES_PASSWORD=WWVJ20oteVBYjCJFNxYNhufWWRpqGdzLCp2YcRryWqS683a2QiYH6H7FvIHUtErT
